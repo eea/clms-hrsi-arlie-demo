@@ -6,6 +6,5 @@ Authors: Magellium.
 The notebook contained within this repository is using products generated in the High Resolution Snow and Ice Monitoring framework contract implemented by European Environment Agency (EEA), derived from the Sentinel-1 and Sentinel-2 satellites.
 
 ## Run this notebook
-This notebook (and "images" folder) can be imported and run in the Wekeo Jupyter environment: https://jupyterhub-wekeo.apps.eumetsat.dpi.wekeo.eu This will require you to create an account on WEkEO, freely.
-More information: https://www.wekeo.eu/docs/using-jupyter 
+This notebook (and "images" folder) can be imported on any Jupyter environment.
 
